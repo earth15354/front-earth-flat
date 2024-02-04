@@ -27,7 +27,8 @@
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.22.0",
     "react-unity-webgl": "^9.5.0",
-    "tailwind-merge": "^2.2.1"
+    "tailwind-merge": "^2.2.1",
+    "com.skibitsky.unity-now": "https://github.com/skibitsky/unity-now.git"
   }
 
 }
